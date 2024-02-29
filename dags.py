@@ -13,7 +13,7 @@ def fetch_articles_and_upload_to_gcs(api_key, project_id, bucket_name, filename,
     then upload the fetched data to Google Cloud Storage.
     
     Parameters:
-    - api_key: API key for the New York Times API.
+    - api_key: API key for the New York Times API # Obtain your key from https://developer.nytimes.com/get-started
     - project_id: GCP project ID.
     - bucket_name: GCS bucket name.
     - filename: The name of the file to create in GCS.
