@@ -1,4 +1,4 @@
-# Distributed-Data-System: NYT Articles to GCS and MongoDB Pipeline
+# Distributed Data System: NYT Articles to GCS and MongoDB Pipeline
 <div align="center">
   <img src="flow.png" alt="Image 1">
 </div>
