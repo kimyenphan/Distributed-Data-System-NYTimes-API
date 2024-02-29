@@ -1,5 +1,7 @@
 # Distributed-Data-System: NYT Articles to GCS and MongoDB Pipeline
-
+<div align="center">
+  <img src="flow.png" alt="Image 1">
+</div>
 
 ## Project goal: 
 This project automates the process of fetching articles from the New York Times (NYT) API, uploading them to Google Cloud Storage (GCS), and then writing the data into a MongoDB collection. It utilizes Apache Airflow to schedule and orchestrate the workflow.
